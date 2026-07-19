@@ -1,0 +1,11 @@
+package Main;
+
+public enum TIPOMOVIMIENTO {
+    DEPOSITO,
+    RETIRO,
+    TRANSFERENCIA,
+    CONSULTA,
+    CAMBIO_CLAVE,
+    CONFIGURACION,
+    BLOQUEO
+}
